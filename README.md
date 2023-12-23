@@ -1,2 +1,2 @@
 # aadi
-note for aadi 
+Notes for aadi 
