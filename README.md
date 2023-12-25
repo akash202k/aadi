@@ -7,9 +7,8 @@
 4. if else
 5. functions
 6. array
-7. switch statement
+7. for loop
 
-# Assinment's
-* Day -2 
+
 
 
